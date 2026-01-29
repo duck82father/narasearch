@@ -387,7 +387,7 @@ class MainWidget(QWidget):
     def show_notice(self):
         msg_text = """
 
-■ 문화의 창 나라장터 통합 검색기 ] LJH ver.1 
+■ [ 나라장터 통합 검색기 ] ver.1 
 
 - 나라장터 입찰공고, 사전규격 API를 이용한 검색 프로그램입니다.
 
